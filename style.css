@@ -1,0 +1,32 @@
+body {
+    background: beige;
+    font-size: larger;
+    text-align: center;
+    font-family: "Rouge Script", cursive;
+    font-size: 70px;
+    }
+
+h1 {
+    color: black;
+    font-size: 100px;
+    border-style: double;
+    border-color: rebeccapurple;
+}
+
+.h1border {
+    border: 5px;
+    border-style: dotted;
+    cursor: wait;
+}
+
+#h1color {
+    color: brown;
+    border-color: #d45e19;
+    cursor: pointer;
+}
+
+#h1color:hover {
+    color: rgb(230, 13, 13);
+    /* padding: 10px; */
+    box-shadow: 5px 10px 18px rgb(230, 13, 13);
+}
