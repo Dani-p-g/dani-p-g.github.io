@@ -13,6 +13,14 @@ h1 {
     border-color: rebeccapurple;
 }
 
+h2 {
+    color: blueviolet;
+    font-size: 90px;
+    border-style: dashed;
+    border-color: blueviolet;
+    cursor:grab;
+}
+
 .h1border {
     border: 5px;
     border-style: dotted;
